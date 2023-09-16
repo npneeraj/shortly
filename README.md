@@ -1,2 +1,2 @@
 # shortly
-shortens the long URLs into tiny ones.
+shortens any URL.
