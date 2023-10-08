@@ -1,2 +1,3 @@
 # shortly
-shortens any URL.
+shortens URL (a tinyrul-clone)
+
